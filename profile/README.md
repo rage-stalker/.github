@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ragestalker.ru"><strong>ragemodules.online »</strong></a>
+  <a href="https://ragemodules.online"><strong>ragemodules.online »</strong></a>
 </p>
 
 <p align="center">
