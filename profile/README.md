@@ -1,5 +1,5 @@
 <p align="center">
-  <a aria-label="RAGE: Modules LOGO" href="https://ragemodules.ru">
+  <a aria-label="RAGE: Modules LOGO" href="https://ragemodules.online">
     <img src="https://github.com/rage-stalker/.github/blob/main/profile/logoragemodules.png" width="210" />
   </a>
 </p>
