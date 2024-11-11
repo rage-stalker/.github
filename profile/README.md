@@ -1,13 +1,13 @@
 <p align="center">
-  <a aria-label="ragestalker logo" href="https://ragestalker.ru">
-    <img src="https://github.com/rage-stalker/.github/blob/main/profile/logo.png" width="210" />
+  <a aria-label="RAGE: Modules LOGO" href="https://ragemodules.ru">
+    <img src="https://github.com/rage-stalker/.github/blob/main/profile/logoragem.png" width="210" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://ragestalker.ru"><strong>ragestalker.ru »</strong></a>
+  <a href="https://ragestalker.ru"><strong>ragemodules.online »</strong></a>
 </p>
 
 <p align="center">
-  RolePlay server in the S.T.A.L.K.E.R. universe, based on RAGE MP
+  Independent development team that builds modules on various platforms
 </p>
